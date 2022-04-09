@@ -1,1 +1,4 @@
-alert("Hello this is just me");
+import '../styles/styles.css'
+
+
+alert("The sky is blue");
